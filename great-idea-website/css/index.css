@@ -64,3 +64,112 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+/* Header top alignment */
+.header-top{
+	color: lightgray;
+	font-family: 'Titillium Web';
+	font-size: 13px;
+	font-weight: 5px;
+	padding: 30px 25px 25px 10px;
+	border: 0px solid black;
+	width: 70%;
+	height: 70%;
+	margin-left: 10%;
+	display: inline-block;
+	box-sizing: border-box;
+}
+
+/* Navigation bar alignment */
+header nav a{
+	color: lightgray;
+	font-family: 'Titillium Web';
+	font-size: 15px;
+	font-weight: 200px;
+	border: 0px solid black;
+	margin: 0px 70px 70px 0px;
+	padding-left: 0px;
+	text-decoration: none;
+	display: inline-block;
+	
+}
+
+/* Innovation on demand - wording section alignment */
+.header-top .header-type{
+	display: inline-block;
+	padding-right: 80px;
+	vertical-align: center;
+}
+
+/* Header section alignment */
+.header-top .text-content{
+	display: inline-block;
+	width: 45%;
+	padding-left: 150px;
+	padding-top: 10px;
+	align-content: right;
+}
+
+/* get started button */
+.header-button{
+	border: 1px solid black;
+	font-family: 'Titillium Web';
+	padding: 4px 50px 4px 50px;
+	font-size: 15px;
+	margin-left: 100px;
+}
+
+/* Innovation on demand h1 properties */
+.header-h1{
+	font-size: 80px;
+	text-align: center;
+	color: black;
+	width: 310px;
+	height: 250px;
+	border: 0px solid black;
+	margin: 10%
+}
+
+/* Bottom section content */
+.bottom-content .text-content{
+	display: inline-block;
+	width: 250px;
+	font-family: 'Titillium Web';
+	font-size: 16px;
+	text-align: left;
+	margin: 2% 0 0 10%;
+	
+}
+
+/* Features and about section */
+.top-content .text-content{
+	display: inline-block;
+	width: 425px;
+	font-family: 'Titillium Web';
+	font-size: 16px;
+	text-align: left;
+	margin: 1% 5% 0% 10%;
+	vertical-align: top;
+	padding-left: 0px;
+}
+
+/* Horizontal line */
+hr {
+	width: 1110px;
+	margin-left: 150px;
+	border-top: 1px solid black;
+}
+
+/* Middle image*/
+.middle-img{
+	margin: 0% 0% 0% 10%;
+	width: 70%;
+	border: 1px solid black;
+}
+
+/* Footer */
+footer{
+	width: 80%;
+	margin-left: 10%;
+	font-family: 'Titillium Web';
+	font-size: 15px;
+}
